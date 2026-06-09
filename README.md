@@ -14,3 +14,4 @@ Example
 > What is Generative AI?
 
 The script will print the model's response or the full JSON returned by the local API.
+# claude-code-qwen-assignment
